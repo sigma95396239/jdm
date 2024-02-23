@@ -10565,6 +10565,16 @@
     },
 
     {
+        "name": "LaPoste",
+        "url": "https://aide.laposte.fr/mesdonneespersonnelles",
+        "difficulty": "hard",
+        "notes" : "The deletion is NOT automated. On the linked page, first select 'Déposer ma demande', then select 'Mon compte laposte' and 'Droit à l'effacement ou à l'oubli', then enter information about your account and submit the form.",
+        "domains": [
+            "laposte.fr"
+        ]
+    },
+    
+    {
         "name": "LaptopKeyReplacements",
         "url": "https://www.laptopkeyreplacements.com/contact-us/",
         "difficulty": "impossible",
